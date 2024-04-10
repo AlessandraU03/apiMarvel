@@ -1,0 +1,43 @@
+body {
+    background-color: #accbf4;
+}
+
+
+.card {
+    display: inline-block;
+    background-color: #507bb8;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 17px;
+    padding: 20px;
+    width: 300px;
+}
+
+
+
+.card img {
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+ 
+}
+
+.card h2 {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.card p {
+    color: #201e1e;
+    margin: 5px ;
+    text-align: center;
+}
+
+.card button{
+    background-color: #9dbad7;
+    border-radius: 5px;     
+    margin-left: 120px;
+}
+
